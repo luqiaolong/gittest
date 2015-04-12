@@ -11,5 +11,9 @@ public class Test {
 	public void test(){
 		System.out.println("asdf");
 	}
+	
+	public void test1(){
+		
+	}
 
 }
