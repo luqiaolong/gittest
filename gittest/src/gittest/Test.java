@@ -10,7 +10,7 @@ public class Test {
 	
 	public void test(){
 		System.out.println("asdf");
-		System.out.println("asd");
+		System.out.println("1212");
 	}
 	
 		
