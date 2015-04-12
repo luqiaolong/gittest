@@ -7,5 +7,9 @@ public class Test {
 		System.out.println("asds12323====");
 		System.out.println("asds12323xxx123");
 	}
+	
+	public void test(){
+		System.out.println("asdf");
+	}
 
 }
