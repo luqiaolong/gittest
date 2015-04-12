@@ -12,5 +12,9 @@ public class Test {
 		System.out.println("asdf");
 		System.out.println("asd");
 	}
+	
+	public void test4(){
+		
+	}
 
 }
