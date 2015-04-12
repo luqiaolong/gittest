@@ -13,6 +13,11 @@ public class Test {
 		System.out.println("asd");
 	}
 	
+		
+	public void test1(){
+		
+	}
+	
 	public void test4(){
 		
 	}
